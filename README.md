@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, I'm Seth McCarthy 👋
 
+```java
+class Seth {
+    String[] likes = {"to", "code"};
+    String[] curr  = {"notion", "figma"};
+    String[] prev  = {"aws"};
+}
 <!--
 **seth-mccarthy/seth-mccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
