@@ -1,7 +1,9 @@
 ## Hi, I'm Seth McCarthy 👋
 
-```java
-class Seth {
-    String[] likes = {"to", "code"};
-    String[] prev  = {"aws"};
+```js
+const Seth = {
+  likes: ["to", "code"],
+  prev: ["aws"],
 }
+'''md
+[linkedin](https://linkedin.com/in/sethmccarthy)
