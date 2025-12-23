@@ -1,6 +1,6 @@
 ## Hi, I'm Seth McCarthy 👋
 
-###```js
+```js
 ###const Seth = {
 ###  likes: ["to", "code"],
 ###  prev: ["aws"],
