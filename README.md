@@ -5,5 +5,4 @@ const Seth = {
   likes: ["to", "code"],
   prev: ["aws"],
 }
-'''md
 [linkedin](https://linkedin.com/in/sethmccarthy)
